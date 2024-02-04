@@ -798,7 +798,7 @@ function validateData() {
     }
   }
   if (ret == false) {
-    alert("Enter all required values\n" + errStr);
+    alert("Enter all required values skibidi toilet\n" + errStr);
   }
   return ret
 }
